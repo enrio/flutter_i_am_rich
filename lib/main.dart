@@ -7,7 +7,7 @@ void main() {
       appBar: AppBar(
         backgroundColor: Colors.blueAccent[200],
         title: Text(
-          "I am rich",
+          "I am rich !",
         ),
       ),
       body: Center(
